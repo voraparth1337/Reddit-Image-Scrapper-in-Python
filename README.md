@@ -3,6 +3,11 @@
 Scrapy is an open source and collaborative framework for extracting the data you need from websites.
 In a fast, simple, yet extensible way.
 
+To install scrapy on Ubuntu 
+```bash
+pip install scrapy
+```
+
 Some basics :
 To scrap any kind of data, we need to have a template for that data, this is defined in scrapy with the help of
 'item' object.
@@ -18,6 +23,7 @@ To start a project
 ```bash
 scrapy startproject reddit
 ```
+All the following commands need to be run from within the project folder
 
 To generate a spider
 ```bash
