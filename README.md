@@ -53,6 +53,8 @@ scrapy crawl -o output.csv -t csv picture
 ```
 
 Everything else is mentioned in the program 
-GLHF
+
+GLHF!
+-drmrsnake :)
 
 
